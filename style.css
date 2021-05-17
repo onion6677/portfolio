@@ -1,0 +1,17 @@
+#pimg {
+    width: 100%;
+}
+
+#pimg ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#pimg ul li {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #d8d8d8;
+}
